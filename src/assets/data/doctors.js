@@ -25,6 +25,16 @@ export const doctors = [
   },
   {
     id: "03",
+    name: "Ahmad Fahmid",
+    specialty: "Dermatologist",
+    avgRating: 4.8,
+    totalRating: 272,
+    photo: doctorImg03,
+    totalPatients: 1500,
+    hospital: "Mount Adora Hospital, Sylhet.",
+  },
+  {
+    id: "04",
     name: "Dr. Farid Uddin",
     specialty: "Dermatologist",
     avgRating: 4.8,
