@@ -25,7 +25,7 @@ export const doctors = [
   },
   {
     id: "03",
-    name: "Dr. Farid Uddin",
+    name: "Ahmad Fahmid",
     specialty: "Dermatologist",
     avgRating: 4.8,
     totalRating: 272,
